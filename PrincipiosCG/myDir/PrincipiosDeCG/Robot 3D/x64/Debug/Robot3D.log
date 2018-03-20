@@ -1,0 +1,37 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: El directorio intermedio (x64\Debug\) contiene archivos compartidos de otro proyecto (Transformaciones3D.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  Application.cpp
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(38): warning C4244: 'argumento': conversión de 'int' a 'const float'; posible pérdida de datos
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(52): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(53): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(54): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(56): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(57): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(58): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(59): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(62): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(89): warning C4309: 'argumento': truncamiento de valor constante
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(98): warning C4309: 'argumento': truncamiento de valor constante
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(109): warning C4309: 'argumento': truncamiento de valor constante
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(118): warning C4309: 'argumento': truncamiento de valor constante
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(129): warning C4309: 'argumento': truncamiento de valor constante
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(138): warning C4309: 'argumento': truncamiento de valor constante
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(149): warning C4309: 'argumento': truncamiento de valor constante
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(158): warning C4309: 'argumento': truncamiento de valor constante
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(169): warning C4309: 'argumento': truncamiento de valor constante
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(178): warning C4309: 'argumento': truncamiento de valor constante
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(189): warning C4309: 'argumento': truncamiento de valor constante
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(198): warning C4309: 'argumento': truncamiento de valor constante
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(209): warning C4309: 'argumento': truncamiento de valor constante
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(218): warning C4309: 'argumento': truncamiento de valor constante
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(229): warning C4309: 'argumento': truncamiento de valor constante
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(238): warning C4309: 'argumento': truncamiento de valor constante
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(251): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(253): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(254): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(272): warning C4309: 'argumento': truncamiento de valor constante
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(291): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(292): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(293): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\gamos\desktop\escuela\progra\5to\introcg\mydir - copia\principiosdecg\robot 3d\src\application.cpp(294): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  Robot3D.vcxproj -> C:\Users\gamos\Desktop\escuela\progra\5to\IntroCG\myDir - copia\PrincipiosDeCG\x64\Debug\Robot3D.exe
